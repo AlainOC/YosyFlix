@@ -21,8 +21,8 @@ Una aplicación web tipo Netflix para ver trailers, sinopsis, imágenes y actore
    ```
 2. **Abre la carpeta del proyecto.**
 3. **Haz doble clic en el archivo `PelisApi.html`** o ábrelo con tu navegador favorito.
-
-¡No necesitas instalar nada más! Todo funciona directamente en el navegador.
+4. O puedes descomprimir el archivo .zip
+No necesitas instalar nada más. Todo funciona directamente en el navegador.
 
 ## Notas
 - Necesitas conexión a internet para que funcione la API de TMDB.
@@ -30,4 +30,4 @@ Una aplicación web tipo Netflix para ver trailers, sinopsis, imágenes y actore
 
 ---
 
-Desarrollado por AlexisCelis13 
+Desarrollado por Alexis Celis
