@@ -1,6 +1,6 @@
-# PelisApi
+# YOSYFLIX
 
-Una aplicación web tipo Netflix para ver trailers, sinopsis, imágenes y actores de películas y series usando la API de TMDB.
+Es Una aplicación web tipo Netflix o Max para ver trailers, sinopsis, imágenes y actores de películas y series usando la API de TMDB.
 
 ## Características
 - Autenticación de usuarios (registro y login, localStorage)
@@ -17,7 +17,7 @@ Una aplicación web tipo Netflix para ver trailers, sinopsis, imágenes y actore
 
 1. **Descarga o clona este repositorio:**
    ```sh
-   git clone https://github.com/AlexisCelis13/ScriptApi.git
+   git clone https://github.com/AlainOC/YosyFlixNew.git
    ```
 2. **Abre la carpeta del proyecto.**
 3. **Haz doble clic en el archivo `yosyflixpagina.html`** o ábrelo con tu navegador favorito.
@@ -30,4 +30,4 @@ No necesitas instalar nada más. Todo funciona directamente en el navegador.
 
 ---
 
-Desarrollado por Alexis Celis
+Desarrollado por Alain
