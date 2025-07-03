@@ -20,7 +20,7 @@ Una aplicación web tipo Netflix para ver trailers, sinopsis, imágenes y actore
    git clone https://github.com/AlexisCelis13/ScriptApi.git
    ```
 2. **Abre la carpeta del proyecto.**
-3. **Haz doble clic en el archivo `PelisApi.html`** o ábrelo con tu navegador favorito.
+3. **Haz doble clic en el archivo `yosyflixpagina.html`** o ábrelo con tu navegador favorito.
 4. O puedes descomprimir el archivo .zip
 No necesitas instalar nada más. Todo funciona directamente en el navegador.
 
